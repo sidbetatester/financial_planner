@@ -61,9 +61,10 @@ Note:
 
 * Generate your API KEY and your SECRET KEY after registering on the [Alpaca site](https://alpaca.markets/), you will not require any paid services to access the data for this Application, so ensure you are not providing any payment information.  
 
-* Create an environment file (.env) in the financial_planner folder. Include variables for ALPACA_API_KEY and ALPACA_SECRET_KEY in this file for accessing the Alpaca API
-    ALPACA_API_KEY=Your_API_Key_here
-    ALPACA_SECRET_KEY=Your_Secret_Key_here
+* Create an environment file (.env) in the financial_planner folder, you may create a text file and rename it to .env. 
+    * Include variables for ALPACA_API_KEY and ALPACA_SECRET_KEY in this file for accessing the Alpaca API as shown below
+    * ALPACA_API_KEY=Your_API_Key_here
+    * ALPACA_SECRET_KEY=Your_Secret_Key_here
 ---
 
 
